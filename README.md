@@ -1,2 +1,2 @@
 # machine-learning
-machine learning YOLO homework
+This page is made for uploading homework of machine learning.
